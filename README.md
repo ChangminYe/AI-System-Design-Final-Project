@@ -20,7 +20,7 @@ We modulate the code
 
 ======== Execute LSQ+ ========
 
-4) ./lsq_quantization.ipynb
+4) ./Final_project_team_9.ipynb
 
 ==========================
 

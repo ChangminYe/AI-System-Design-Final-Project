@@ -19,6 +19,7 @@ We modulate the code
 
 
 ======== Execute LSQ+ ========
+
 4) ./lsq_quantization.ipynb
 
 ==========================

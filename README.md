@@ -14,10 +14,13 @@ We modulate the code
 1) ./quan/utils.py
 2) ./quan/quantizer/lsq.py
 3) ./quan/quantizer/quantizer.py
+
 ================================
+
 
 ======== Execute LSQ+ ========
 4) ./lsq_quantization.ipynb
+
 ==========================
 
 ## Model

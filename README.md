@@ -2,7 +2,7 @@
 
 ## Introduction
 
-LSQ+ was implemented by eferring to the code in the link below
+LSQ+ was implemented by referring to the code in the link below
 
 https://github.com/ZouJiu1/LSQplus
 
